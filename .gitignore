@@ -1,3 +1,26 @@
+<<<<<<< HEAD
 access_token
 .DS_Store
 .bundle
+=======
+# Gradle files
+.gradle
+build
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# IntelliJ project files
+**.iml
+.idea
+
+# Android Studio captures folder
+captures/
+
+# Misc
+.DS_Store
+.classpath
+.project
+.settings
+.vscode
+>>>>>>> 1cad4c58b99e9103a1af3de6c372317e255fb366
