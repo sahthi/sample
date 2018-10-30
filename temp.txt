@@ -1,0 +1,23 @@
+total 116152
+-rw-------  1 siddasah siddasah      1675 Sep 20 15:12 
+-rw-rw-r--  1 siddasah siddasah       132 Sep 20 15:50 apache.yml
+drwxrwxr-x  6 siddasah siddasah      4096 Oct  3 16:25 data
+drwxr-xr-x  4 siddasah siddasah      4096 Sep  5 16:33 Desktop
+drwxr-xr-x 39 siddasah siddasah      4096 Oct  1 14:43 Documents
+drwxr-xr-x  5 siddasah siddasah      4096 Oct  5 14:31 Downloads
+-rw-r--r--  1 siddasah siddasah      8980 Sep  5 15:38 examples.desktop
+-rw-rw-r--  1 siddasah siddasah       155 Sep 20 14:50 install.yml
+-rw-rw-r--  1 siddasah siddasah 118846434 Oct 29  2017 jfrog-artifactory-pro-5.5.2.zip
+-rw-r--r--  1 siddasah siddasah      1902 Sep 17 18:16 known_hosts
+-rw-rw-r--  1 siddasah siddasah       643 Sep 20 18:23 links
+drwxr-xr-x  2 siddasah siddasah      4096 Sep  5 15:41 Music
+drwxrwxr-x  3 siddasah siddasah      4096 Sep 10 12:33 myapp
+drwxr-xr-x  2 siddasah siddasah      4096 Sep 18 16:52 Pictures
+drwxrwxr-x  2 siddasah siddasah      4096 Sep  6 12:41 Practice
+-rw-rw-r--  1 siddasah siddasah        82 Oct  3 15:55 progr.py
+-rw-r--r--  1 siddasah siddasah       398 Sep 20 15:12 .pub
+drwxr-xr-x  2 siddasah siddasah      4096 Sep  5 15:41 Public
+drwxr-xr-x  2 siddasah siddasah      4096 Sep  5 15:41 Templates
+-rw-rw-r--  1 siddasah siddasah         0 Oct  9 17:59 temp.txt
+-rw-rw-r--  1 siddasah siddasah       336 Sep 20 15:58 Untitled Document 1
+drwxr-xr-x  2 siddasah siddasah      4096 Sep  5 15:41 Videos
